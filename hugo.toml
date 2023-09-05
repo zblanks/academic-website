@@ -1,0 +1,17 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Zachary Blanks'
+theme = 'hugo-resume'
+
+[params]
+address = "Washington, DC"
+email = "zdb6dz@virginia.edu"
+firstName = "Zachary"
+lastName = "Blanks"
+profileImage = "img/zach-biking.jpg"
+showContact = false
+sections = ["publications","education"]
+
+[[params.handles]]
+link = "https://github.com/zblanks/"
+name = "GitHub"
